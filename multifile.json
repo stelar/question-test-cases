@@ -1,0 +1,10 @@
+[ 
+  {
+    "id": "file",
+    "type": "file",
+    "question": "Optional file.",
+    "format":"pdf",
+    "required": false,
+    "max":"7"
+  }
+ ]
