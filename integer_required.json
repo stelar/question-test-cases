@@ -1,0 +1,11 @@
+[
+  {
+    "id": "integer_q",
+    "type": "text",
+    "question": "Age?",
+    "format": "integer",
+    "min": "18",
+    "max": "99",
+    "required": true
+  }
+]
