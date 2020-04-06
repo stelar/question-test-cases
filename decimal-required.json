@@ -1,0 +1,11 @@
+[
+  {
+    "id": "decimal_q",
+    "type": "text",
+    "question": " Can you enter decimal between 18.5 and 75.9?",
+    "format": "decimal",
+    "min": "18.5",
+    "max": "75.9",
+    "required": true
+  }
+]
